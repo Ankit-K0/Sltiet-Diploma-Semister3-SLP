@@ -1,4 +1,4 @@
 #list
 
-list = ['Ankit','Rohit','Raees']
+list = ['Ankit','CND','Raees']
 print(list)
